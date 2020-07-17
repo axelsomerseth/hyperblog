@@ -10,6 +10,6 @@ Si estás leyendo esto:
 
 **Muchas gracias, toma el código que quieras. Que la fuerza del código te acompañe 👨🏻‍💻.**
 
-Tengo Youtube y subo videitos: [Suscribete 😉](https://www.youtube.com/user/axelsomerseth/http:// "Mi Youtube")
+Tengo Youtube y subo videitos: [Suscribete 😉](https://www.youtube.com/user/axelsomerseth/)
 
 Bye, hasta que el código compile!
